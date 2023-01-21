@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "vite-plugin-compression": "^0.5.1",
     "vue": "^3.2.45"
   },
   "devDependencies": {
